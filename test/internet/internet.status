@@ -1,1 +1,3 @@
 prefix internet
+
+test-dns : PASS,FLAKY

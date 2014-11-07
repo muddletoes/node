@@ -1,1 +1,3 @@
 prefix simple
+
+test-crypto-domains : PASS,FLAKY
